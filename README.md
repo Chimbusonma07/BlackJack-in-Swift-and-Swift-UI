@@ -1,4 +1,4 @@
-# 🃏 SwiftUI Blackjack Game
+# 🃏 Swift and SwiftUI Blackjack Game
 
 Welcome to **SwiftUI Blackjack**, a visually engaging and beginner-friendly implementation of the classic card game! This version includes game animations, auto-play dealer logic, scorekeeping, and a three-round system to determine the overall winner. Unfortuantely, Swift UI can only work on Apple devices so you need one to run the code without issues.
 
