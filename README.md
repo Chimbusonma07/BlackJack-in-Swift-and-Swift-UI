@@ -2,7 +2,7 @@
 
 Welcome to **SwiftUI Blackjack**, a visually engaging and beginner-friendly implementation of the classic card game! This version includes game animations, auto-play dealer logic, scorekeeping, and a three-round system to determine the overall winner. Unfortuantely, Swift UI can only work on Apple devices so you need one to run the code without issues.
 
-## 🎮 Gameplay Features.
+## 🎮 Gameplay Features
 
 * ✅ **3-Round Blackjack**: Play up to three rounds against the dealer and see who wins overall.
 * 🎴 **Card Logic**: Includes all standard cards — from 2 through 10, face cards (King, Queen, Joker = 10), and Aces (= 11).
@@ -15,7 +15,7 @@ Welcome to **SwiftUI Blackjack**, a visually engaging and beginner-friendly impl
 
 ## 🛠 How It Works
 
-Here is a video showing the gameplay: 
+Here is a video showing the gameplay: https://drive.google.com/file/d/1boRflCdVPOZQnZs-UUkBfI8axa6gLYgP/view?usp=sharing
 
 ### Main Components
 
