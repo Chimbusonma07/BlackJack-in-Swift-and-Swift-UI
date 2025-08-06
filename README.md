@@ -15,6 +15,8 @@ Welcome to **SwiftUI Blackjack**, a visually engaging and beginner-friendly impl
 
 ## 🛠 How It Works
 
+Here is a video showing the gameplay: 
+
 ### Main Components
 
 * **`ContentView`**: Shows animated welcome screen with a “Start Game” button.
